@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="lv">
 <head>
 <meta charset="utf-8">
