@@ -1,5 +1,6 @@
 <!doctype html>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reģistrēt jaunu personu SAIS</title>
 <style>
 /* Layout: pixel replica of the Oracle Forms screen JUBU0104 (1168x634); every element is absolutely placed at coordinates measured from the reference screenshot. */
